@@ -58,4 +58,4 @@ else:
 #Displaying our data and analysis
 print(dataFrame)
 print(f'\nAVERAGES & ANALYSIS OF RECENT TWEETS CONTAINING THE WORD {tweetSubject.upper()}:\n{polarityAnalysis} Polarity: {avgPolarity}\n{subjectivityAnalysis} Subjectivity: {avgSubjectivity}')
-input('Press ENTER to exit') 
+input('\nPress ENTER to exit') 
